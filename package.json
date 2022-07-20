@@ -1,0 +1,29 @@
+{
+  "name": "homeassistant",
+  "version": "1.0.0",
+  "description": "Test project for TDD",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaddenPisarski/homeAssistant.git"
+  },
+  "keywords": [
+    "TDD"
+  ],
+  "author": "Shadden Pisarski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShaddenPisarski/homeAssistant/issues"
+  },
+  "homepage": "https://github.com/ShaddenPisarski/homeAssistant#readme",
+  "dependencies": {
+    "mongodb": "^4.8.0",
+
+  }
+}
